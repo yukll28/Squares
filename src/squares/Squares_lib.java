@@ -35,6 +35,8 @@ public Squares_lib(double[] x, double[] y) {
 	
  
  }
+
+ 
 }
 
 
